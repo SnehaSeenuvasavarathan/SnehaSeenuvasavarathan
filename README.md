@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SnehaSeenuvasavarathan
-- 👀 I’m interested in programming and web development
+- 👀 I’m interested in iOS and web development
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
